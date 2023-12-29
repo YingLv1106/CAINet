@@ -7,7 +7,7 @@
 # Network
 
    <div align=center>
-   <img src="https://github.com/YingLv1106/CAINet/tree/main/image/cainet.png">
+   <img src="https://github.com/YingLv1106/CAINet/blob/main/image/cainet.png">
    </div> 
 
 # Segmentation maps and performance
@@ -17,7 +17,7 @@
    **Performace on MFNet dataset**
 
    <div align=center>
-   <img src="https://github.com/YingLv1106/CAINet/tree/main/image/result.jpg">
+   <img src="https://github.com/YingLv1106/CAINet/blob/main/image/result.jpg">
    </div>
 
 
