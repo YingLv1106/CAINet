@@ -1,0 +1,33 @@
+{
+    "model_name": "cainet",
+    "dataset": "pst900",
+    "inputs": "rgbt",
+    "root": "/ROOT OF PST900_Dataset",
+    "n_classes": 5,
+    "id_unlabel":null,
+    "brightness": 0.5,
+    "contrast": 0.5,
+    "saturation": 0.5,
+    "p": 0.5,
+    "rotation_degree": "-13 13",
+    "scales_range": "0.5 2.0",
+    "crop_size": "480 640",
+    "eval_scales": "0.5 0.75 1.0 1.25 1.5 1.75",
+    "eval_flip": "true",
+
+
+    "ims_per_gpu": 8,
+    "num_workers": 8,
+
+    "lr_start": 5e-4,
+    "momentum": 0.9,
+    "weight_decay": 5e-4,
+    "lr_power": 0.9,
+    "epochs":200,
+
+    "loss": " crossentropy",
+    "class_weight": "enet"
+}
+
+
+
