@@ -12,7 +12,7 @@
 
 # Segmentation maps and performance
 
-   We provide segmentation maps on MFNet dataset and PST900 dataset under './results'.
+   We provide segmentation maps on MFNet dataset and PST900 dataset [[GoogleDrive](https://drive.google.com/drive/folders/1fKE9JpyhLWPIzHaqSJ4zl7t0WafdqYkI?usp=drive_link)] [[BaiDu]](链接: https://pan.baidu.com/s/1Z0zEw527UTtCccKtyTznww?pwd=arn3) (arn3)
 
    **Performace on MFNet dataset**
 
@@ -24,7 +24,7 @@
 
 
 # Pre-trained model and testing
-1. Download the following pre-trained model and put it under './checkpoint' [[download checkpoint GoogleDrive](https://drive.google.com/drive/folders/1dX7frPekYnw1nR9rwnbwZkcdC6Zj2gLT?usp=drive_link)]
+1. Download the following pre-trained model and put it under './checkpoint' [[download checkpoint GoogleDrive](https://drive.google.com/drive/folders/1dX7frPekYnw1nR9rwnbwZkcdC6Zj2gLT?usp=drive_link)]  [[BaiDu]](链接: https://pan.baidu.com/s/1Z0zEw527UTtCccKtyTznww?pwd=arn3) (arn3)
 2. run evaluate_*.py.
 
 
