@@ -17,13 +17,13 @@
    **Performace on MFNet dataset**
 
    <div align=center>
-   <img src="https://github.com/YingLv1106/CAINet/blob/main/image/result.jpg">
+   <img src="https://github.com/YingLv1106/CAINet/blob/main/image/resul.jpg">
    </div>
 
    **Performace on PST900 dataset**
 
    <div align=center>
-   <img src="https://github.com/YingLv1106/CAINet/blob/main/image/result2.jpg">
+   <img src="https://github.com/YingLv1106/CAINet/blob/main/image/result.jpg">
    </div>
 
 
