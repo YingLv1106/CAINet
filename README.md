@@ -34,12 +34,14 @@
 
 # Citation
     @ARTICLE{lv2023cainet,
-    author={Lv, Ying and Liu, Zhi and Li, Gongyang},
-    journal={IEEE Transactions on Multimedia}, 
-    title={Context-Aware Interaction Network for RGB-T Semantic Segmentation}, 
-    year={2023},
-    volume={},
-    number={},
-    pages={1-13},
-    doi={10.1109/TMM.2023.3349072}
-    }
+      author={Lv, Ying and Liu, Zhi and Li, Gongyang},
+      title={Context-Aware Interaction Network for RGB-T Semantic Segmentation}, 
+      journal={IEEE Transactions on Multimedia}, 
+      volume={},
+      number={}, 
+      year={2023},
+      month={Jan.},
+      pages={1-13},
+      doi={10.1109/TMM.2023.3349072}
+      }
+    
