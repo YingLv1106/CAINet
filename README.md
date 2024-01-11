@@ -40,7 +40,6 @@
       volume={},
       number={}, 
       year={2023},
-      month={Jan.},
       pages={1-13},
       doi={10.1109/TMM.2023.3349072}
       }
