@@ -17,13 +17,13 @@
    **Performace on MFNet dataset**
 
    <div align=center>
-   <img src="https://github.com/YingLv1106/CAINet/blob/main/image/resul.jpg">
+   <img src="https://github.com/YingLv1106/CAINet/blob/main/image/resul_mfnet.jpg">
    </div>
 
    **Performace on PST900 dataset**
 
    <div align=center>
-   <img src="https://github.com/YingLv1106/CAINet/blob/main/image/resul.jpg">
+   <img src="https://github.com/YingLv1106/CAINet/blob/main/image/resul_pst.jpg">
    </div>
 
 
@@ -33,8 +33,15 @@
 
 
 # Citation
-        @ARTICLE
-
+@ARTICLE{lv2023cainet,
+  author={Lv, Ying and Liu, Zhi and Li, Gongyang},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Context-Aware Interaction Network for RGB-T Semantic Segmentation}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TMM.2023.3349072}}
 
 ​                
 
