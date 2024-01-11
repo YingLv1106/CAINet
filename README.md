@@ -33,6 +33,7 @@
 
 
 # Citation
+'''
 @ARTICLE{lv2023cainet,
   author={Lv, Ying and Liu, Zhi and Li, Gongyang},
   journal={IEEE Transactions on Multimedia}, 
@@ -42,6 +43,6 @@
   number={},
   pages={1-13},
   doi={10.1109/TMM.2023.3349072}}
-
+'''
 ​                
 
