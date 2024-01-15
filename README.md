@@ -1,5 +1,5 @@
 # CAINet 
-  This project provides the code and results for Context-Aware Interaction Network for RGB-T Semantic Segmentation", IEEE TMM, 2023. [IEEE link]([https://iee](https://ieeexplore.ieee.org/document/10379106)) and [[arxiv link](https://arxiv.org/abs/2401.01624)] [[Homepage](https://github.com/YingLv1106/CAINet)]
+  This project provides the code and results for Context-Aware Interaction Network for RGB-T Semantic Segmentation", IEEE TMM, 2023. [[IEEE link](https://ieeexplore.ieee.org/document/10379106)] and [[arxiv link](https://arxiv.org/abs/2401.01624)] [[Homepage](https://github.com/YingLv1106/CAINet)]
 
 # Requirements
   python 3.7 + pytorch 1.12.0
